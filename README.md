@@ -5,8 +5,7 @@
 <img width = "50%" align="left" alt="PIC" height="300px" src="https://danielrodriguez.info/wp-content/uploads/2015/12/habilidades-desarrollador-web.jpg" />
 <div align="right"> 
   <h3>🐱‍💻 Sobre Mi </h3>
-  <p> Soy una persona curiosa, lo que me lleva a siempre estar queriendo saber mas del mundo que me rodea, Apasionado por el Desarrollo De Software, Conciente de lo magico y cambiante que es, Me lleva a Estar en un Constante Aprendizaje.
-Me adapto facilmente al trabajo en equipo, nuevas situaciones, desafios y personas. 
+  <p> "Full-stack developer con experiencia en desarrollo web y fuerte enfoque en automatización y análisis de datos. Apasionado por crear soluciones eficientes y escalables, con un enfoque en Python para optimización y análisis. 
 
 </p>
 </div> 
