@@ -2,7 +2,7 @@
 <h3 align="center"> Full Stack developer de Colombia para el 🌎</h3>
 
 <div>
-<img width = "50%" align="left" alt="PIC" height="300px" src="https://danielrodriguez.info/wp-content/uploads/2015/12/habilidades-desarrollador-web.jpg" />
+
 <div align="right"> 
   <h3>🐱‍💻 Sobre Mi </h3>
   <p> "Full-stack developer con experiencia en desarrollo web y fuerte enfoque en automatización y análisis de datos. Apasionado por crear soluciones eficientes y escalables, con un enfoque en Python para optimización y análisis. 
