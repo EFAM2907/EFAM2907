@@ -20,7 +20,7 @@
  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
-<img src="[https://https://i.pinimg.com/736x/09/a5/f2/09a5f25cbdcdefa890e9201a7d43b9bf.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/960px-Python.svg.png)" width="50">
+<img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png width="50">
 
  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
   <p>
