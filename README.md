@@ -1,4 +1,4 @@
-﻿### <h1 align="center">Hola! soy Edwin Arias 👋</h1>
+﻿### <h1 align="center">HOLA SOY EDWIN ARIAS 👋</h1>
 <h3 align="center"> Full Stack developer de Colombia para el 🌎</h3>
 
 <div>
