@@ -1,5 +1,5 @@
 ﻿### Hello fellow developers
-It's an honor that you're here on my Github, let me tell you a little bit about me:I-m Edwin, Full-stack developer with experience in web development and a strong focus on automation and data analysis. Passionate about building efficient and scalable solutions, with a focus on Python for optimization and analytics.
+It's an honor that you're here on my Github, let me tell you a little bit about me:I'm Edwin, Full-stack developer with experience in web development and a strong focus on automation and data analysis. Passionate about building efficient and scalable solutions, with a focus on Python for optimization and analytics.
 
 Here you can see my knowledge and skills that I have developed over time:
 
