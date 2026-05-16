@@ -1,5 +1,5 @@
 ﻿### Hello fellow developers
-It's an honor that you're here on my Github, let me tell you a little bit about me: I'm Sebastian, a full-stack web developer. Passionate about the world of technology. I have a lot of interest in technology and the why of things. I have also participated in programming in both team and individual projects, putting into practice agile methodologies such as SCRUM, Kanban, Extreme Programming and programming together with other colleagues.
+It's an honor that you're here on my Github, let me tell you a little bit about me:I-m Edwin, Full-stack developer with experience in web development and a strong focus on automation and data analysis. Passionate about building efficient and scalable solutions, with a focus on Python for optimization and analytics.
 
 Here you can see my knowledge and skills that I have developed over time:
 
