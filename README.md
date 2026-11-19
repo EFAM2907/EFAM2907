@@ -39,7 +39,7 @@ Multi-tenant AI agent platform with tool calling, RAG and Gmail integration. The
 
 ### 🌐 Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-efam2907.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-gamma-swart.vercel.app/)
 
 ---
 
